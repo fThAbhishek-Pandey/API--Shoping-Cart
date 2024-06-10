@@ -252,7 +252,9 @@ cart design
   grid-gap: 3px;
   border-radius: 3px;
 }
-@media screen and (min-width :700px) {
- 
-  
+.loading{
+  margin: 2rem auto;
+  justify-items: center;
+ text-align: center;
+
 }
